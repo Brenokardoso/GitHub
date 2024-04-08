@@ -1,5 +1,6 @@
 import time
 
+empty_code = ''
 x = '*'
 y = 0
 while True:
